@@ -1,0 +1,10 @@
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentSystem\bin\Debug\StudentSystem.exe.config
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentSystem\bin\Debug\StudentSystem.exe
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentSystem\bin\Debug\StudentSystem.pdb
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentSystem\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentSystem\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentSystem\obj\Debug\UI.csproj.CopyComplete
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentSystem\obj\Debug\StudentSystem.exe
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentSystem\obj\Debug\StudentSystem.pdb

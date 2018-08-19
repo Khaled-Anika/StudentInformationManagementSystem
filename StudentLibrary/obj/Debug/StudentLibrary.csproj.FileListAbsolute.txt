@@ -1,0 +1,8 @@
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentLibrary\bin\Debug\StudentLibrary.dll
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentLibrary\bin\Debug\StudentLibrary.pdb
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentLibrary\obj\Debug\StudentLibrary.csprojAssemblyReference.cache
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentLibrary\obj\Debug\StudentLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentLibrary\obj\Debug\StudentLibrary.dll
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentLibrary\obj\Debug\StudentLibrary.pdb
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anika\Documents\Visual Studio 2017\Projects\StudentSystem\StudentLibrary\obj\Debug\StudentLibrary.csproj.CopyComplete
